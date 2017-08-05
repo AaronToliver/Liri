@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AaronToliver/Liri#readme",
   "dependencies": {
-    "node-spotify-api": "^1.0.6"
+    "node-spotify-api": "^1.0.6",
+    "twitter": "^1.7.1"
   }
 }
